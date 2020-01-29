@@ -4,5 +4,6 @@ Attempts to quantify the similarity between two documents.
 
 ### cosine similarity
 
-Converts two documents to vectors and computes the similarity between those vectors.
-Similarity is calculated by taking the inner product space that measures the cosine angle between them.
+●	Used cosine similarity to converts two documents to vectors and computing the similarity between those vectors. 
+●	Similarity is calculated by taking the inner product space that measures the cosine angle between them.
+
